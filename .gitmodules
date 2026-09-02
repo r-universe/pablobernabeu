@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "depictr"]
+	path = depictr
+	url = https://github.com/pablobernabeu/depictr
 [submodule "scopusflow"]
 	path = scopusflow
 	url = https://github.com/pablobernabeu/scopusflow
+[submodule "theoryforge"]
+	path = theoryforge
+	url = https://github.com/cran/theoryforge
