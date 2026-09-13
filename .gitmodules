@@ -5,6 +5,9 @@
 [submodule "depictr"]
 	path = depictr
 	url = https://github.com/pablobernabeu/depictr
+[submodule "pilotr"]
+	path = pilotr
+	url = https://github.com/cran/pilotr
 [submodule "scopusflow"]
 	path = scopusflow
 	url = https://github.com/pablobernabeu/scopusflow
