@@ -5,6 +5,9 @@
 [submodule "depictr"]
 	path = depictr
 	url = https://github.com/pablobernabeu/depictr
+[submodule "lexsync"]
+	path = lexsync
+	url = https://github.com/cran/lexsync
 [submodule "pilotr"]
 	path = pilotr
 	url = https://github.com/cran/pilotr
